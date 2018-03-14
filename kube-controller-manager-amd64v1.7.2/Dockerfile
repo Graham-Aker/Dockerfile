@@ -1,2 +1,2 @@
-FROM hub.c.163.com/nce2/tomcat:7
-EXPOSE 8080
+FROM hub.c.163.com/public/nginx:1.2.1
+EXPOSE 80
