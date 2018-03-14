@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/
-kube-controller-manager-amd64:v1.7.3
+FROM hub.c.163.com/nce2/tomcat
+EXPOSE 8080
